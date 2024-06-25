@@ -1,0 +1,16 @@
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\bin\Debug\net8.0-windows\Calculator App (WPF) .NET.exe
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\bin\Debug\net8.0-windows\Calculator App (WPF) .NET.deps.json
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\bin\Debug\net8.0-windows\Calculator App (WPF) .NET.runtimeconfig.json
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\bin\Debug\net8.0-windows\Calculator App (WPF) .NET.dll
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\bin\Debug\net8.0-windows\Calculator App (WPF) .NET.pdb
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\obj\Debug\net8.0-windows\Calculator_App__WPF__.NET.Form1.resources
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\obj\Debug\net8.0-windows\Calculator App (WPF) .NET.csproj.GenerateResource.cache
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\obj\Debug\net8.0-windows\Calculator App (WPF) .NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\obj\Debug\net8.0-windows\Calculator App (WPF) .NET.AssemblyInfoInputs.cache
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\obj\Debug\net8.0-windows\Calculator App (WPF) .NET.AssemblyInfo.cs
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\obj\Debug\net8.0-windows\Calculator App (WPF) .NET.csproj.CoreCompileInputs.cache
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\obj\Debug\net8.0-windows\Calculator App (WPF) .NET.dll
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\obj\Debug\net8.0-windows\refint\Calculator App (WPF) .NET.dll
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\obj\Debug\net8.0-windows\Calculator App (WPF) .NET.pdb
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\obj\Debug\net8.0-windows\Calculator App (WPF) .NET.genruntimeconfig.cache
+D:\DOTNET\Calculator App (WPF) .NET\Calculator App (WPF) .NET\obj\Debug\net8.0-windows\ref\Calculator App (WPF) .NET.dll

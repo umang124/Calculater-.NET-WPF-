@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET\\Calculator App (WPF) .NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7920CC7-0E5F-4122-8E84-615107561C35}|Calculator App (WPF) .NET\\Calculator App (WPF) .NET.csproj|d:\\dotnet\\calculator app (wpf) .net\\calculator app (wpf) .net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7920CC7-0E5F-4122-8E84-615107561C35}|Calculator App (WPF) .NET\\Calculator App (WPF) .NET.csproj|solutionrelative:calculator app (wpf) .net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7920CC7-0E5F-4122-8E84-615107561C35}|Calculator App (WPF) .NET\\Calculator App (WPF) .NET.csproj|d:\\dotnet\\calculator app (wpf) .net\\calculator app (wpf) .net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7920CC7-0E5F-4122-8E84-615107561C35}|Calculator App (WPF) .NET\\Calculator App (WPF) .NET.csproj|solutionrelative:calculator app (wpf) .net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7920CC7-0E5F-4122-8E84-615107561C35}|Calculator App (WPF) .NET\\Calculator App (WPF) .NET.csproj|d:\\dotnet\\calculator app (wpf) .net\\calculator app (wpf) .net\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7920CC7-0E5F-4122-8E84-615107561C35}|Calculator App (WPF) .NET\\Calculator App (WPF) .NET.csproj|solutionrelative:calculator app (wpf) .net\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DOTNET\\Calculator App (WPF) .NET\\Calculator App (WPF) .NET\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator App (WPF) .NET\\Form1.cs",
+              "ToolTip": "D:\\DOTNET\\Calculator App (WPF) .NET\\Calculator App (WPF) .NET\\Form1.cs",
+              "RelativeToolTip": "Calculator App (WPF) .NET\\Form1.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAIwHgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:10:30.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\DOTNET\\Calculator App (WPF) .NET\\Calculator App (WPF) .NET\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Calculator App (WPF) .NET\\Form1.Designer.cs",
+              "ToolTip": "D:\\DOTNET\\Calculator App (WPF) .NET\\Calculator App (WPF) .NET\\Form1.Designer.cs",
+              "RelativeToolTip": "Calculator App (WPF) .NET\\Form1.Designer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:20:48.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DOTNET\\Calculator App (WPF) .NET\\Calculator App (WPF) .NET\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator App (WPF) .NET\\Form1.cs",
+              "ToolTip": "D:\\DOTNET\\Calculator App (WPF) .NET\\Calculator App (WPF) .NET\\Form1.cs [Design]",
+              "RelativeToolTip": "Calculator App (WPF) .NET\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:07:56.575Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
